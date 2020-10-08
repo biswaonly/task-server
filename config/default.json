@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://biswaonly:iambiswajit@biswa-db-dwjzc.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "secrettoken"
+}
